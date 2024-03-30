@@ -9,8 +9,11 @@ Main Menu
 
     File
         * Titles and Sheet Setup - establishing the size of the schematic sheet 
-          and placing the drawing frame
-            * ANSI A
+          and placing the drawing frame:  ANSI A
+        * Preview - preview a printing
+
+    Edit
+        Copy Matrix - bulk copying
 
     View
         * Graphics Mode
@@ -23,6 +26,11 @@ Main Menu
         * Customize Grid - set custom grid size
         * Precision - set precision of grid and all values
         * Units - set units
+        * Pin Numbers - show or hide pin numbers for the entire circuit 
+        * Move Part Texts - move around RefDes, numbers, pin names or any other 
+          markings visually
+        * Part Markings - change common settings of part markings of all 
+          schematic parts
 
     Objects
         * Find Component - Search component in libraries
@@ -46,3 +54,9 @@ HotKey
 
     Ctrl + Plus/Minus Sign (+/-)
         increase, or decrease the grid size  
+
+    Alt + F11   
+        Snap to Grid
+
+    F10
+        move around RefDes, numbers, pin names or any other markings visually
