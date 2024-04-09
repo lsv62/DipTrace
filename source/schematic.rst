@@ -11,6 +11,8 @@ Main Menu
         * Titles and Sheet Setup - establishing the size of the schematic sheet 
           and placing the drawing frame:  ANSI A
         * Preview - preview a printing
+        * Convert to PCB - the schematic will open in the PCB Layout
+        * Recover Schematic - recover the latest schematic
 
     Edit
         Copy Matrix - bulk copying
