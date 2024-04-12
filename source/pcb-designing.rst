@@ -19,6 +19,7 @@ Main Menu
         * Units - change the measurement units
         * Precision - configure precision of all the values in the project
         * Origin - see the origin point
+        * Mirror - see how the bottom layer actually looks like
 
     Objects
         * Place Ratline -  create a pad-to-pad connections visually
@@ -37,6 +38,8 @@ Main Menu
         * Autorouter Setup - set up the autorouter
         * Route Setup - the trace width and clearance between traces
         * Run Autorouter - route the circuit board
+        * Layer Setup - add, edit, create or delete a layer
+
     Verification
         * Check Design Rules - verifies object sizes, length/phase parameters o
           f highspeed nets, and clearances between different objects
