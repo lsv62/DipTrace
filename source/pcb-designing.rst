@@ -39,6 +39,8 @@ Main Menu
         * Route Setup - the trace width and clearance between traces
         * Run Autorouter - route the circuit board
         * Layer Setup - add, edit, create or delete a layer
+        * Via styles - set via type and size
+        * Manual Routing
 
     Verification
         * Check Design Rules - verifies object sizes, length/phase parameters o
