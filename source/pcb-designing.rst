@@ -41,6 +41,8 @@ Main Menu
         * Layer Setup - add, edit, create or delete a layer
         * Via styles - set via type and size
         * Manual Routing
+        * Unroute All - completely unroute nets
+        * Net Classes
 
     Verification
         * Check Design Rules - verifies object sizes, length/phase parameters o
