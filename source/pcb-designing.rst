@@ -62,3 +62,6 @@ HotKey
 
     2
         Go to bottom layer
+
+    CTRL +F9
+        Run Autorouter
