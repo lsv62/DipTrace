@@ -63,5 +63,8 @@ HotKey
     2
         Go to bottom layer
 
-    CTRL +F9
+    CTRL + F9
         Run Autorouter
+
+    CTRL + Z
+        undo last doing
