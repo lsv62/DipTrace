@@ -10,7 +10,6 @@ Welcome to DipTrace's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   schematic
    pcb-designing
 
 Indices and tables
