@@ -81,3 +81,9 @@ HotKey
 
     CTRL + '-'
         Decrease grid step
+
+    Left Click on trace + N    
+        Add a new node in the selected place
+
+    Tab
+        toggle between the selection of a segment, a trace or the entire net
