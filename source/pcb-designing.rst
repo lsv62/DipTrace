@@ -21,6 +21,8 @@ Main Menu
         * Origin -- see the origin point
         * Mirror -- see how the bottom layer actually looks like
         * Customize Grid -- configure the list of available grids
+        * Display hint
+            * Add Object Details -- display trace length
 
     Objects
         * Place Ratline --  create a pad-to-pad connections visually
