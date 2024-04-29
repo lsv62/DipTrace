@@ -10,6 +10,9 @@ Main Menu
     File
         Recover Board --  recover the latest project version
 
+    Edit    
+        Edit Selection
+
     Placement
         * Arrange Components -- components will be arranged according to 
           the placement settings near the design center
@@ -29,6 +32,7 @@ Main Menu
         * Place Board Outline -- place the board outline on the design area
         * Board Points -- n Add, Insert and Delete key points
         * Delete Board -- delete the outline polygon
+        * Place Static Via -- place several static vias
 
     Route
         * Connection Manager -- add, delete or rename nets, as well as add or 
