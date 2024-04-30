@@ -26,6 +26,8 @@ Main Menu
         * Customize Grid -- configure the list of available grids
         * Display hint
             * Add Object Details -- display trace length
+        * Layer Display
+            * Contrast Edit -- allow edit objects located on inactive layers
 
     Objects
         * Place Ratline --  create a pad-to-pad connections visually
