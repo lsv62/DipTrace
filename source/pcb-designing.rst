@@ -35,6 +35,7 @@ Main Menu
         * Board Points -- n Add, Insert and Delete key points
         * Delete Board -- delete the outline polygon
         * Place Static Via -- place several static vias
+        * Place Copper Pour -- create a copper pour that covers the layer of the board
 
     Route
         * Connection Manager -- add, delete or rename nets, as well as add or 
