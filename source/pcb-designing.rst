@@ -36,6 +36,7 @@ Main Menu
         * Delete Board -- delete the outline polygon
         * Place Static Via -- place several static vias
         * Place Copper Pour -- create a copper pour that covers the layer of the board
+        * Update All Copper Pours -- update all copper pours at a time
 
     Route
         * Connection Manager -- add, delete or rename nets, as well as add or 
