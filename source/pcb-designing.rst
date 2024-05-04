@@ -11,7 +11,9 @@ Main Menu
         Recover Board --  recover the latest project version
 
     Edit    
-        Edit Selection
+        * Edit Selection
+        * Unlock Selected -- unlock all selected objects
+        * Lock Components -- lock components on selected layer
 
     Placement
         * Arrange Components -- components will be arranged according to 
@@ -97,3 +99,9 @@ HotKey
 
     Tab
         toggle between the selection of a segment, a trace or the entire net
+
+    CTRL + a    
+        Select all
+
+    CTRL + ALT + L
+        Unlocked selected objects
