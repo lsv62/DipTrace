@@ -61,8 +61,8 @@ Main Menu
         * Net Classes
 
     Verification
-        * Check Design Rules -- verifies object sizes, length/phase parameters o
-          f highspeed nets, and clearances between different objects
+        * Check Design Rules -- verifies object sizes, length/phase parameters 
+          of highspeed nets, and clearances between different objects
         * Design Rules -- change design rules
 
 HotKey
@@ -70,6 +70,9 @@ HotKey
 
 .. glossary::
 
+    F9
+        Check Design Rules
+        
     F10
         Optimize visual appearance of the connection lines
 
