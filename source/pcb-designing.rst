@@ -8,12 +8,15 @@ Main Menu
 .. glossary::
 
     File
-        Recover Board --  recover the latest project version
+        * Recover Board --  recover the latest project version
+        * Layout Information -- counting the number of pins or the board area
+        * Preview -- check the final layout
 
     Edit    
         * Edit Selection
         * Unlock Selected -- unlock all selected objects
         * Lock Components -- lock components on selected layer
+        * Keep RefDes while Pasting -- pin limitation does not apply
 
     Placement
         * Arrange Components -- components will be arranged according to 
@@ -66,6 +69,9 @@ Main Menu
         * Design Rules -- change design rules
         * Check Net Connectivity - check if all nets are properly connected
         * Compare to Schematic -- check if PCB corresponds to the source Schematic
+
+    Tools
+        * Panelizing -- makes several copies of the same PCB
 
 HotKey
 --------------
