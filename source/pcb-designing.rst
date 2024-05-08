@@ -65,6 +65,7 @@ Main Menu
           of highspeed nets, and clearances between different objects
         * Design Rules -- change design rules
         * Check Net Connectivity - check if all nets are properly connected
+        * Compare to Schematic -- check if PCB corresponds to the source Schematic
 
 HotKey
 --------------
