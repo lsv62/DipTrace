@@ -64,6 +64,7 @@ Main Menu
         * Check Design Rules -- verifies object sizes, length/phase parameters 
           of highspeed nets, and clearances between different objects
         * Design Rules -- change design rules
+        * Check Net Connectivity - check if all nets are properly connected
 
 HotKey
 --------------
