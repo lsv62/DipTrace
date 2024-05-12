@@ -10,8 +10,8 @@ Welcome to DipTrace's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   source/schematic/schematic.rst
-   source/PCB/pcb-designing.rst
+   schematic.rst
+   pcb-designing.rst
 
 Indices and tables
 ==================
