@@ -11,6 +11,7 @@ Main Menu
         * Recover Board --  recover the latest project version
         * Layout Information -- counting the number of pins or the board area
         * Preview -- check the final layout
+        * Titles and Sheet -- display titles
 
     Edit    
         * Edit Selection
@@ -33,6 +34,7 @@ Main Menu
             * Add Object Details -- display trace length
         * Layer Display
             * Contrast Edit -- allow edit objects located on inactive layers
+        * Flip Text Automatically -- get a mirrored text
 
     Objects
         * Place Ratline --  create a pad-to-pad connections visually
