@@ -35,6 +35,7 @@ Main Menu
         * Layer Display
             * Contrast Edit -- allow edit objects located on inactive layers
         * Flip Text Automatically -- get a mirrored text
+        * Colors -- defines print colors
 
     Objects
         * Place Ratline --  create a pad-to-pad connections visually
