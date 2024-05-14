@@ -7,11 +7,12 @@ Welcome to DipTrace's documentation!
 ====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    schematic.rst
    pcb-designing.rst
+   pattern.rst
 
 Indices and tables
 ==================

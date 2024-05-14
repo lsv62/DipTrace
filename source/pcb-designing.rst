@@ -1,9 +1,9 @@
 
 Designing a PCB
-================================
+===============
 
 Main Menu
-------------
+---------
 File
     * Recover Board --  recover the latest project version
     * Layout Information -- counting the number of pins or the board area
@@ -65,18 +65,15 @@ Verification
     * Compare to Schematic -- check if PCB corresponds to the source Schematic
 Tools
     * Panelizing -- makes several copies of the same PCB
-
+    
 HotKey
---------------
-
+------
 F9
     Check Design Rules
-    
 F10
     Optimize visual appearance of the connection lines
 F11 
     Hide/Show grid
-
 1
     Go to top layer
 2
