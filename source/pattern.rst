@@ -3,8 +3,15 @@ Pattern
 =======
 Menu
 ----
-"Library
+Library
     * Save -- save library in the file
+Pattern 
+    * Standard Pad Properties -- change default pad settings
+"Edit 
+    * Center Pattern -- Center the pattern
+    * Rotate Pattern -- rotate the pattern
+    * Vertical Flip -- Vertical Flip the pattern
+    * Horizontal Flip -- Horizontal Flip the pattern
 View
     * Display Origin -- shows a center point and X, Y-axes
     * Define Origin -- change the origin
@@ -25,3 +32,5 @@ F1
     change scale
 Shift + U  
     Change grid scale
+CTRL + ALT +С
+    Center the pattern
