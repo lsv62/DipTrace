@@ -23,6 +23,7 @@ View
     * Snap to Grid
 Objects
     * Place Dimension -- place a dimension line
+    * Precize Shape Placement -- make chape for 3D model
 
 Shortkey
 --------
