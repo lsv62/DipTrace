@@ -33,5 +33,7 @@ F1
     change scale
 Shift + U  
     Change grid scale
-CTRL + ALT +С
+CTRL + ALT + С
     Center the pattern
+CTRL +ALT + R
+    Rotate pattern
