@@ -13,6 +13,7 @@ Welcome to DipTrace's documentation!
    schematic.rst
    pcb-designing.rst
    pattern.rst
+   component.rst
 
 Indices and tables
 ==================
