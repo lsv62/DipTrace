@@ -7,6 +7,8 @@ Component
     * Attached Pattern -- attach a pattern to symbol
     * Pin Manager -- change component's pin to pad connections
     * Add New to... -- add a new component to the library
+    * Create Similar Parts -- add several similar parts of component
+    * Add New Part -- add a single part to the component
 Edit
     * Center Symbol -- put origin in the center
 View
