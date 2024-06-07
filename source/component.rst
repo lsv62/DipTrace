@@ -15,6 +15,7 @@ Component
     * Add New Part -- add a single part to the component
     * Default Additional Fields -- specify default additional fields and their values
     * Make Buses from Pins -- group pins logically
+    * Spice Model -- define SPICE settings for the component
 
 Edit
     * Center Symbol -- put origin in the center
