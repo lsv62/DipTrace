@@ -5,7 +5,9 @@ Menu
 ----
 Library
     Import
-        Add BSDL Pinlist -- import pin names manually or  them from external BSDM file
+        * Add BSDL Pinlist -- import pin names manually or  them from external BSDM file
+        * Check "My Library" --  the total number of components/parts/pins in your library
+          and all possible errors
 
 Component
     * Attached Pattern -- attach a pattern to symbol
